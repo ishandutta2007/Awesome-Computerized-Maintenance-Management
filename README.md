@@ -59,7 +59,7 @@ This repository tracks top-tier **SaaS platforms** and **open-source software** 
 
 ## 🔓 Open-Source GitHub Projects
 
-| Repository / Project 📦 | GitHub Stars ⭐ | Primary Focus & Stack 💻 |
+| Repository / Project 📦 | GitHub_Stars ⭐ | Primary Focus & Stack 💻 |
 | :--- | :--- | :--- |
 | **[Odoo Maintenance](https://github.com/odoo/odoo)** | [<img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/>](https://github.com/odoo/odoo/stargazers) | Full enterprise open-source ERP featuring modular equipment maintenance, work order execution, and preventive triggers (Python/JS). |
 | **[Snipe-IT](https://github.com/grokability/snipe-it)** | [<img src="https://img.shields.io/github/stars/grokability/snipe-it?style=social&color=white" alt="Snipe-IT Stars"/>](https://github.com/grokability/snipe-it/stargazers) | Open-source asset management platform for tracking hardware lifecycle, maintenance assignments, and audit trails (PHP/Laravel). |
